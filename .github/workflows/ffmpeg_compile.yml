@@ -27,4 +27,5 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run The Site
-        run: media-autobuild_suite.bat
+#         run: D:\a\media-autobuild_suite\media-autobuild_suite\media-autobuild_suite.bat
+        run: pwd
